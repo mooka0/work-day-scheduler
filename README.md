@@ -14,10 +14,11 @@ THEN the text for that event is saved in local storage</br>
 WHEN I refresh the page</br>
 THEN the saved events persist</br>
 
-#Home Page: https://mooka0.github.io/work-day-scheduler/
+# Home Page
+https://mooka0.github.io/work-day-scheduler/
 
 
 ![Screen Shot 2021-02-01 at 4 05 41 PM](https://user-images.githubusercontent.com/66394427/106533686-7f1f3600-64a7-11eb-9b17-7fae8d9e17d9.png)
 
-#Set Up
+# Set Up
 git clone: https://github.com/mooka0/work-day-scheduler
